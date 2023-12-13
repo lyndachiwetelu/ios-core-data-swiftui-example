@@ -11,6 +11,7 @@
 		780A4B7B2B2A36DE00E736E5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 780A4B7A2B2A36DE00E736E5 /* ContentView.swift */; };
 		780A4B7D2B2A36DE00E736E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 780A4B7C2B2A36DE00E736E5 /* Assets.xcassets */; };
 		780A4B802B2A36DE00E736E5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 780A4B7F2B2A36DE00E736E5 /* Preview Assets.xcassets */; };
+		780A4B872B2A37C800E736E5 /* EditNoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 780A4B862B2A37C800E736E5 /* EditNoteView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		780A4B7A2B2A36DE00E736E5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		780A4B7C2B2A36DE00E736E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		780A4B7F2B2A36DE00E736E5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		780A4B862B2A37C800E736E5 /* EditNoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditNoteView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		780A4B772B2A36DE00E736E5 /* Memora */ = {
 			isa = PBXGroup;
 			children = (
+				780A4B862B2A37C800E736E5 /* EditNoteView.swift */,
 				780A4B782B2A36DE00E736E5 /* MemoraApp.swift */,
 				780A4B7A2B2A36DE00E736E5 /* ContentView.swift */,
 				780A4B7C2B2A36DE00E736E5 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				780A4B7B2B2A36DE00E736E5 /* ContentView.swift in Sources */,
+				780A4B872B2A37C800E736E5 /* EditNoteView.swift in Sources */,
 				780A4B792B2A36DE00E736E5 /* MemoraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
